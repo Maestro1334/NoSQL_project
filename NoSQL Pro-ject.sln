@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSQL Pro-ject", "NoSQL Pro-ject\NoSQL Pro-ject.csproj", "{8FEDAED1-6721-4CD6-A326-2F7BF082E999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{3BB3BCD8-9D91-4B3F-AFBC-4E3B1235862C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{D0E69EF2-F0D7-443F-848A-5280A6E18B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{ADF3780E-CB38-44C2-98EE-06FC1BD1A1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FEDAED1-6721-4CD6-A326-2F7BF082E999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEDAED1-6721-4CD6-A326-2F7BF082E999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEDAED1-6721-4CD6-A326-2F7BF082E999}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEDAED1-6721-4CD6-A326-2F7BF082E999}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3BB3BCD8-9D91-4B3F-AFBC-4E3B1235862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB3BCD8-9D91-4B3F-AFBC-4E3B1235862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB3BCD8-9D91-4B3F-AFBC-4E3B1235862C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB3BCD8-9D91-4B3F-AFBC-4E3B1235862C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D0E69EF2-F0D7-443F-848A-5280A6E18B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E69EF2-F0D7-443F-848A-5280A6E18B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E69EF2-F0D7-443F-848A-5280A6E18B45}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E69EF2-F0D7-443F-848A-5280A6E18B45}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{ADF3780E-CB38-44C2-98EE-06FC1BD1A1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF3780E-CB38-44C2-98EE-06FC1BD1A1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF3780E-CB38-44C2-98EE-06FC1BD1A1E5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF3780E-CB38-44C2-98EE-06FC1BD1A1E5}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2D29B5-067A-443E-8644-717FF2A46A5E}
+	EndGlobalSection
+EndGlobal
